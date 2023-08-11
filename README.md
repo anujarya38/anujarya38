@@ -1,4 +1,4 @@
-### HOla, I'm Anuj Kumar.
+### Hola, I'm Anuj Kumar.
 - 👋 Hi, I’m @anujarya38
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning machine learning
